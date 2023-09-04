@@ -1,0 +1,39 @@
+{
+    "Users": [
+        {
+            "email": "celestemanuel@gmail.com",
+            "nome": "Celeste Manuel Gaspar",
+            "telefone": "926041450"
+        },
+        {
+            "email": "eliseugaspar@gmail.com",
+            "nome": "Eliseu Gaspar",
+            "telefone": "937702795"
+        },
+        {
+            "email": "romaoaugusto@gmail.com",
+            "nome": "Romão Augusto",
+            "telefone": "937563301"
+        },
+        {
+            "email": "antoniogaspar@gmail.com",
+            "nome": "António Gaspar",
+            "telefone": "924623102"
+        },
+        {
+            "email": "correiagaspar@gmail.com",
+            "nome": "Gaspar Correia",
+            "telefone": "921115030"
+        },
+        {
+            "email": "matias@gmail.com",
+            "nome": "Matias Canhanga",
+            "telefone": "922374401"
+        },
+        {
+            "email": "eduardosilva@gmail.com",
+            "nome": "Eduardo Silva",
+            "telefone": "937702796"
+        }
+    ]
+}
